@@ -1,0 +1,1 @@
+../Drivers/Src/stm32f401RE_rcc_driver.c:19:10:RCC_GetPCLKValue	32	static
